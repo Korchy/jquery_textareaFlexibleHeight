@@ -15,4 +15,4 @@ include into *.html:
 
 &lt;script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"&gt; &lt;/script&gt;<br>
 &lt;script type="text/javascript" src="textareaFlexibleHeight.js"&gt;&lt;/script&gt;<p>
-&lt;textarea class='textareaFlexibleHeight'&gt;
+&lt;textarea class='textareaFlexibleHeight'&gt; &lt;/textarea&gt;
